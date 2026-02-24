@@ -1,5 +1,7 @@
 # Frizzy Forecast 
 
+![Icon](icon.svg)
+
 > Because your (my) hair deserves (needs) preparation.
 
 Frizzy Forecast is a Cinnamon desklet that gives real-time hair styling advice based on current weather conditions.
