@@ -1,0 +1,63 @@
+.frizzy-container {
+    padding: 18px 20px;
+    border-radius: 20px;
+    background: linear-gradient(
+        180deg,
+        rgba(255, 230, 245, 0.95),
+        rgba(240, 245, 255, 0.95)
+    );
+    box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+    background-color: rgba(255, 255, 255, 0.7);
+    min-width: 220px;
+}
+
+/* Header */
+.frizzy-title {
+    font-size: 20px;
+    font-weight: 800;
+    color: #c367b3;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+/* City */
+.frizzy-city {
+    font-size: 13px;
+    color: #5f5f90;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+/* Icon */
+.frizzy-icon {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+/* Big temperature */
+.frizzy-temp {
+    font-size: 42px;
+    font-weight: 900;
+    color: #2d2d5a;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+/* Advice text */
+.frizzy-advice {
+    font-size: 14px;
+    color: #4b3f72;
+    line-height: 1.5;
+    white-space: pre-line;
+    font-weight: 600;
+    text-align: left-center;
+}
+
+/* Cute hover lift */
+.frizzy-container:hover {
+    transition: 0.25s ease;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.22);
+}
