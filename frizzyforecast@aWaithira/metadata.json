@@ -1,0 +1,7 @@
+{
+    "uuid": "frizzyforecast@aWaithira",
+    "name": "Frizzy Forecast",
+    "description": "A desklet that gives hair styling advice based on live weather conditions in Gothenburg. (Very needed btw)",
+    "version": "1.0",
+    "icon": "icon.svg"
+}
